@@ -40,7 +40,7 @@ I work as an SRE and I am a Python / Golang developer. I am driven by my passion
 
 <br /><br />
 
-<img align="right" height="250px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780042/my-assets/s8ivj1c1h6wnkvlx1yal.gif" alt="biotech">
+<img align="right" height="250px" width="250px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780042/my-assets/s8ivj1c1h6wnkvlx1yal.gif" alt="biotech">
 <br />
 <h3 align="center">Other Favourite Topics</h3>
 
@@ -63,4 +63,3 @@ I work as an SRE and I am a Python / Golang developer. I am driven by my passion
     <a href="https://github.com/iamshreeram/mini-domain"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=iamshreeram&repo=mini-domain&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="mini-domain"></a>
    <a href="https://github.com/iamshreeram"><img width="278" src="https://github-readme-stats.vercel.app/api?username=iamshreeram&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon&show_description=false" alt="shreeram"></a>
   </p>
-
