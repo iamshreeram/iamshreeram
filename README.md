@@ -19,12 +19,13 @@ I work as an SRE and I am a Python / Golang developer. I am driven by my passion
 
 <img src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/aahb0wy4ghjnjdbunh9h.gif" alt="hor-border">
 <div align="center">
-<img align="left" width="1px" height="350px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780781/my-assets/border/fmqliyof9vwttxfwrtki.gif" alt="ver-border">
+   
+<!-- img align="left" width="1px" height="350px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780781/my-assets/border/fmqliyof9vwttxfwrtki.gif" alt="ver-border" -->
 <span>
 <img align="left" height="350px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780043/my-assets/cgjdhwhqdloh8os0lnxd.gif" alt="Automatic digital assistant" style="float:left">
 </span>
-<img align="left" width="1px" height="350px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780781/my-assets/border/fmqliyof9vwttxfwrtki.gif" alt="ver-border">
-<span align="center">
+<!-- img align="left" width="1px" height="350px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780781/my-assets/border/fmqliyof9vwttxfwrtki.gif" alt="ver-border"-->
+   <span align="center">
    <img align="center" height="100%" width="30%" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780042/my-assets/ixtfb0ou6evjim0ez4pe.gif" alt="Coding Rocks">
    <h3>
       Utilities written
