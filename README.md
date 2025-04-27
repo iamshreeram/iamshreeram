@@ -1,6 +1,6 @@
 <p align="center">
    <img width="75%" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780050/my-assets/pmuypfhoybzpjteruicy.gif" alt="Shreeram - banner"><br />
-   <img src="https://readme-typing-svg.demolab.com/?lines=SRE - Observability | Kernel Eng | eBPF ;Dev - Golang | Python | Rust;Ops - Monitoring | Sys Eng | Infra ;Passion - Webassembly | P2P | LLM;Phil - Cyber Eng (Hardware/Software)&font=Fira%20Code&color=e56e39&center=true&width=550&height=35&duration=1000&pause=500" alt="About me"><br />
+   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=e56e39&center=true&width=550&height=35&duration=1000&pause=500&separator=;&lines=SRE+-+Observability+%7C+Kernel+Eng+%7C+eBPF+;Dev+-+Golang+%7C+Python+%7C+Rust;Ops+-+Monitoring+%7C+Sys+Eng+%7C+Infra+;Passion+-+Webassembly+%7C+P2P+%7C+LLM;Phil+-+Cyber+Eng+(Hardware%2FSoftware)" alt="About me" /><br />
    <img src="https://komarev.com/ghpvc/?username=ProfileForSRamFanofElonmusk&color=orange" alt="Shreeram" />
 </p>
 <p align="center">
